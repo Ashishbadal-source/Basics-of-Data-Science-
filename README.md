@@ -20,20 +20,32 @@ Each folder contains hands-on notebooks with explanations, code, and visualizati
 
 ---
 
-## ▶️ Run on Google Colab (No setup needed!)
+## ▶️ Run on Google Colab
 
-### 🔢 NumPy
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/NumPy/1_intro_numpy.ipynb)
+## 📘 Google Colab Notebooks
 
-### 🐼 Pandas
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Pandas/2_dataframes.ipynb)
+You can directly open and run the Jupyter notebooks from this repository in **Google Colab** using the links below — no need to download or install anything.
 
-### 📈 Matplotlib
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Matplotlib/3_plotting.ipynb)
+| 📂 Topic        | 📓 Notebook               | ▶️ Colab Link |
+|----------------|---------------------------|----------------|
+| **Matplotlib** | `mat_1.ipynb`              | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Matplotlib/mat_1.ipynb) |
+|                | `mat_2.ipynb`              | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Matplotlib/mat_2.ipynb) |
+| **NumPy**      | `array1_basic.ipynb`       | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/NumPy/array1_basic.ipynb) |
+|                | `array2_basics.ipynb`      | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/NumPy/array2_basics.ipynb) |
+| **Pandas**     | `pandas_1.ipynb`           | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Pandas/pandas_1.ipynb) |
+|                | `pandas_2.ipynb`           | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Pandas/pandas_2.ipynb) |
+|                | `pandas_3.ipynb`           | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Pandas/pandas_3.ipynb) |
+|                | `pandas_4.ipynb`           | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Pandas/pandas_4.ipynb) |
+| **Statistics** | `practice_1.ipynb`         | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Statistics/practice_1.ipynb) |
+|                | `statistics_part1.ipynb`   | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Statistics/statistics_part1.ipynb) |
+|                | `statistics_part2.ipynb`   | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Statistics/statistics_part2.ipynb) |
 
+> 🔗 Tip: These links only work if your GitHub repository is public. Otherwise, Colab cannot access the notebooks.
+
+
+
+
+ 
 
 ```markdown
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/your-notebook-name.ipynb)

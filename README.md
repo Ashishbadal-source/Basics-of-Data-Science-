@@ -20,8 +20,6 @@ Each folder contains hands-on notebooks with explanations, code, and visualizati
 
 ---
 
-## ▶️ Run on Google Colab
-
 ## 📘 Google Colab Notebooks
 
 You can directly open and run the Jupyter notebooks from this repository in **Google Colab** using the links below — no need to download or install anything.
@@ -36,16 +34,9 @@ You can directly open and run the Jupyter notebooks from this repository in **Go
 |                | `pandas_2.ipynb`           | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Pandas/pandas_2.ipynb) |
 |                | `pandas_3.ipynb`           | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Pandas/pandas_3.ipynb) |
 |                | `pandas_4.ipynb`           | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Pandas/pandas_4.ipynb) |
-| **Statistics** | `practice_1.ipynb`         | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Statistics/practice_1.ipynb) |
-|                | `statistics_part1.ipynb`   | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Statistics/statistics_part1.ipynb) |
+| **Statistics** | `statistics_part1.ipynb`   | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Statistics/statistics_part1.ipynb) |
 |                | `statistics_part2.ipynb`   | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Statistics/statistics_part2.ipynb) |
-
-> 🔗 Tip: These links only work if your GitHub repository is public. Otherwise, Colab cannot access the notebooks.
-
-
-
-
- 
+|                | `practice_1.ipynb`         | [Open in Colab](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Statistics/practice_1.ipynb) |
 
 ```markdown
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/your-notebook-name.ipynb)

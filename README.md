@@ -60,8 +60,7 @@ Contributions, suggestions, and improvements are welcome! Feel free to fork this
 
 ## 📩 Contact
 
-For feedback or collaboration, connect with me via [GitHub](https://github.com/Ashishbadal-source).
+For feedback purpose , connect with me via [GitHub](https://github.com/Ashishbadal-source).
 
 ---
 
-> ⭐ Don’t forget to **star** this repository if you find it useful!

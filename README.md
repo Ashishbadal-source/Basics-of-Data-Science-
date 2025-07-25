@@ -20,11 +20,20 @@ Each folder contains hands-on notebooks with explanations, code, and visualizati
 
 ---
 
-## ▶️ Run Notebooks in Google Colab
+## ▶️ Run on Google Colab (No setup needed!)
 
-Click the button below to run directly in Colab (no setup required):
+### 🔢 NumPy
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/NumPy/1_intro_numpy.ipynb)
 
-> Replace `your-notebook-name.ipynb` with actual filenames
+### 🐼 Pandas
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Pandas/2_dataframes.ipynb)
+
+### 📈 Matplotlib
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/Matplotlib/3_plotting.ipynb)
+
 
 ```markdown
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ashishbadal-source/Basics-of-Data-Science-/blob/main/your-notebook-name.ipynb)
